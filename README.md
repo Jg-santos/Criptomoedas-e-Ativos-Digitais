@@ -1,6 +1,6 @@
 # Criptomoedas-e-Ativos-Digitais
 
-# 🪙 Miniguia de Estudos: Fundamentos de Criptomoedas, Blockchain e Regulação Financeira
+# Miniguia de Estudos: Fundamentos de Criptomoedas, Blockchain e Regulação Financeira
 
 > Caderno temático e miniguia de estudos desenvolvido para o **Desafio de Projeto da [DIO (Digital Innovation One)](https://dio.me)**, explorando a Inteligência Artificial como ferramenta de **aprendizagem ativa**, curadoria de conteúdo e síntese crítica no **Google NotebookLM**.
 
